@@ -1,8 +1,7 @@
--criar metas
--listar metas
+[x]-criar metas
+[x]-listar metas
     metas realizadas
     metas abertas
--marcar
--desmarcar
--remover
+[x]-marcar/desmarcar metas realizadas
+-remover metas
 -sistema msg
