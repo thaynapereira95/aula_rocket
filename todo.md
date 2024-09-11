@@ -4,4 +4,6 @@
     metas abertas
 [x]-marcar/desmarcar metas realizadas
 [x]-remover metas
--sistema msg
+[x]-sistema mensagem
+[x]-sistema de carregar e salvar metas
+
